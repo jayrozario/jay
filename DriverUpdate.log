@@ -1,0 +1,16 @@
+Completed FLEXidInstaller.exe
+Completed hinstall.exe
+Rebooting system at the end of the setup.
+Executing code function: RebootSystem
+The value of bFinalReboot is TRUE
+Executing code function: CreateRunOnceKeyEntry
+Value of szPostRebootCommandLine is: /silent /final
+Value of RunOnce key is: C:\Users\ECE\AppData\Local\Temp\byeBED1.tmp\Disk1\Setup.exe /pr /silent /final
+Exit setup since DelayReboot is set.
+Command line argument passed: /pr /silent /final
+The command line parameter /silent was passed. Will run in silent mode.
+The command line parameter /pr was passed. Will run in post reboot mode
+The command line parameter /final was passed. Will exit setup as it is complete.
+Executing code function: OnBegin
+Setup will continue post reboot.
+Setup is complete post final reboot. Setup will exit
